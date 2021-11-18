@@ -1,0 +1,1 @@
+export const api = 'https://iiuc-campus-recuitement-system.herokuapp.com'
